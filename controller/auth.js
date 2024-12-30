@@ -188,3 +188,6 @@ try {
 module.exports = { 
     register, login, updateDetails, deleteUser, getUser, getUsers, updatePassword, forgotPassword
 }
+
+
+
